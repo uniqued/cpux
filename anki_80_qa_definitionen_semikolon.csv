@@ -1,0 +1,87 @@
+Frage;Antwort
+Was ist menschzentrierte Gestaltung Human-Centred Design HCD?;Ein gestalterischer Ansatz für die Entwicklung interaktiver Systeme, der sich auf die Benutzung des Systems konzentriert, auf einem expliziten Verständnis von Benutzern, Zielen, Aufgaben, Ressourcen und Umgebungen basiert, Benutzer während der gesamten Gestaltung einbezieht, iterativ vorgeht und die gesamte User Experience anspricht.
+Welche drei Kernelemente der menschzentrierten Gestaltung sind besonders wichtig?;Einbeziehen von Benutzern, Iteration auf Basis häufiger Usability-Evaluierung, Ansprechen der gesamten User Experience.
+Welche fünf zentralen Aktivitäten umfasst der HCD-Prozess?;Planung der menschzentrierten Gestaltung, Verstehen und Festlegen des Nutzungskontextes, Festlegen der Nutzungsanforderungen, Gestalten von Lösungen die die Nutzungsanforderungen erfüllen, Evaluieren der Gestaltungslösung gegen Nutzungsanforderungen.
+Warum ist menschzentrierte Gestaltung iterativ?;Weil Gestaltungslösungen wiederholt verfeinert werden, bis die Nutzungsanforderungen erfüllt sind und dabei Feedback von Benutzern so früh und so oft wie möglich berücksichtigt wird.
+Muss ein HCD-Projekt immer mit dem Verstehen des Nutzungskontextes beginnen?;Nein, ein Projekt kann je nach Situation an verschiedenen Stellen beginnen, ein umfassendes Verständnis des Nutzungskontextes ist jedoch immer unerlässlich.
+Was ist menschzentrierte Qualität?;Das Ausmaß, in dem Anforderungen an Usability, User Experience, Barrierefreiheit und Vermeidung von Schäden durch die Benutzung erfüllt werden.
+Was ist Usability?;Das Ausmaß, in dem ein interaktives System von bestimmten Benutzern in einem bestimmten Nutzungskontext benutzt werden kann, um bestimmte Ziele effektiv, effizient und zufriedenstellend zu erreichen.
+Welche drei Kriterien gehören zur Usability?;Effektivität, Effizienz und Zufriedenstellung.
+Was bedeutet Effektivität im CPUX-F-Kontext?;Die Genauigkeit und Vollständigkeit, mit der Benutzer festgelegte Ziele erreichen.
+Was bedeutet Effizienz im CPUX-F-Kontext?;Die verwendeten Ressourcen in Bezug auf die erzielten Ergebnisse.
+Was bedeutet Zufriedenstellung im CPUX-F-Kontext?;Das Ausmaß, in dem die physischen, kognitiven und emotionalen Reaktionen des Benutzers, die sich aus der Benutzung eines interaktiven Systems ergeben, die Erfordernisse und Erwartungen des Benutzers erfüllen.
+Was ist User Experience UX?;Die Wahrnehmungen und Reaktionen eines Benutzers, die sich aus der Benutzung und oder der erwarteten Benutzung eines interaktiven Systems ergeben.
+Worin liegt der wichtigste Unterschied zwischen Usability und User Experience?;Usability betrachtet hauptsächlich die tatsächliche Benutzung, User Experience umfasst zusätzlich Wahrnehmungen und Reaktionen vor, während und nach der Benutzung.
+Was ist Barrierefreiheit?;Das Ausmaß, in dem ein interaktives System Benutzern ermöglicht effektiv, effizient und zufriedenstellend zu interagieren, ungeachtet der Ausprägung ihres Sehens, Hörens, ihrer Geschicklichkeit, ihres Denkens oder ihrer physischen Beweglichkeit.
+Was ist eine Unterstützungstechnologie im Sinne des Curriculums?;Eine Technologie wie zum Beispiel ein Screenreader, die Menschen mit Einschränkungen bei der Interaktion mit einem interaktiven System unterstützt.
+Was bedeutet Vermeidung von Schäden durch die Benutzung?;Das Ausmaß, in dem negative Auswirkungen auf Gesundheit, Sicherheit, Finanzen oder Umwelt, die sich aus der Benutzung des interaktiven Systems ergeben, minimiert werden.
+Was ist ein interaktives System?;Eine Kombination aus Hardware, Software und Dienstleistungen, mit der Benutzer interagieren, um bestimmte Ziele zu erreichen, gegebenenfalls einschließlich Verpackung, Benutzerdokumentation, Onlinehilfe, Support und Schulung.
+Was ist eine Benutzer-System-Interaktion?;Ein Informationsaustausch zwischen einem Benutzer und einem interaktiven System über die Benutzungsschnittstelle, um die beabsichtigte Aufgabe zu erledigen.
+Was ist eine Benutzungsschnittstelle?;Die Gesamtheit der Bestandteile eines interaktiven Systems, die Informationen und Steuerelemente zur Verfügung stellen, die der Benutzer benötigt, um bestimmte Aufgaben mit dem interaktiven System zu erledigen.
+Was ist ein User Interface Element?;Eine Grundkomponente einer Benutzungsschnittstelle, die dem Benutzer durch das interaktive System präsentiert wird.
+Sind alle User Interface Elemente interaktiv?;Nein, User Interface Elemente können interaktiv sein, müssen es aber nicht.
+Was ist der Zweck der Planung menschzentrierter Gestaltung?;Geeignete HCD-Methoden und Ergebnisse, erforderliche Aktivitäten, Mitarbeiter, Ressourcen, Zeitrahmen und menschzentrierte Qualitätsziele festzulegen.
+Was sind menschzentrierte Qualitätsziele?;Beabsichtigte Ergebnisse der Entwicklung eines interaktiven Systems für den Benutzer, die sich auf Usability, Barrierefreiheit, User Experience oder Vermeidung von Schäden durch die Benutzung beziehen.
+Wie sollten menschzentrierte Qualitätsziele ergänzt werden?;Durch spezifische, umsetzbare und messbare Kriterien, die darauf ausgerichtet sind, dass Benutzer ihre Ziele erreichen.
+Was ist der Nutzungskontext?;Eine Kombination aus Benutzern, Zielen und Aufgaben, Ressourcen und Umgebungen.
+Welche fünf Komponenten hat der Nutzungskontext?;Benutzer, Ziele, Aufgaben, Ressourcen, Umgebungen.
+Was ist eine Nutzungskontextbeschreibung?;Eine Menge von Ergebnissen, die den Nutzungskontext beschreiben, zum Beispiel Benutzergruppenprofile, Personas, Ist-Szenarien, Aufgabenmodelle und User Journey Maps.
+Was ist ein Benutzer?;Eine Person, die mit einem interaktiven System interagiert oder die Ergebnisse nutzt, die vom System erzeugt werden.
+Was ist ein primärer Benutzer?;Ein Benutzer, der das interaktive System für den beabsichtigten Zweck verwendet.
+Was ist ein sekundärer Benutzer?;Ein Benutzer, der unterstützende Aufgaben mit dem interaktiven System ausführt, beispielsweise Wartung oder Schulung primärer Benutzer.
+Was ist ein indirekter Benutzer?;Ein Benutzer, der die Ergebnisse des interaktiven Systems verwendet, aber nicht direkt mit dem interaktiven System interagiert.
+Was ist ein Interessenvertreter?;Eine Person oder Organisation mit einem aktiven Interesse an einem interaktiven System.
+Sind alle Interessenvertreter auch Benutzer?;Nein, alle Benutzer sind Interessenvertreter, aber nicht alle Interessenvertreter sind Benutzer.
+Was ist eine Benutzergruppe?;Eine Gruppe von Benutzern mit gleichen oder ähnlichen persönlichen Merkmalen und Nutzungskontexten in Bezug auf das interaktive System.
+Was ist ein Benutzergruppenprofil?;Eine verallgemeinerte Beschreibung einer Benutzergruppe.
+Was ist ein Ziel?;Das beabsichtigte Ergebnis.
+Was ist eine Aufgabe?;Eine Menge von Aktivitäten, die durchgeführt werden, um ein bestimmtes Ziel zu erreichen.
+Was ist eine Teilaufgabe?;Ein Schritt, der durchgeführt wird, um eine Aufgabe zu erledigen.
+Warum sind Teilaufgaben als Usability-Testaufgaben ungeeignet?;Weil die Erledigung einer Teilaufgabe für sich genommen noch kein Ziel aus Sicht des Benutzers erreicht.
+Was ist eine Umgebung im Nutzungskontext?;Die physischen, sozialen und technischen Bedingungen, unter denen ein Benutzer mit einem interaktiven System interagiert.
+Was ist eine physische Bedingung der Umgebung?;Ein physischer Parameter der Umgebung, zum Beispiel Raumgröße, Lichtstärke oder Lärm.
+Was ist eine technische Bedingung der Umgebung?;Eine Bedingung wie Zugang zu Energie oder Konnektivität, zum Beispiel WLAN oder Steckdosen.
+Was ist eine soziale Bedingung der Umgebung?;Ein gesellschaftlich geprägter Aspekt des Kontexts, zum Beispiel Arbeitsbedingungen, Gesetze, Zugang zu Informationen oder Kollegen.
+Was ist eine Ressource im Nutzungskontext?;Alle Mittel, die erforderlich sind, um ein beabsichtigtes Ergebnis im Nutzungskontext zu erreichen.
+Welche zwei Arten von Ressourcen unterscheidet das Curriculum?;Wiederverwendbare Ressourcen und erschöpfbare Ressourcen.
+Was ist Beobachtung im Rahmen der Nutzungskontextanalyse?;Eine Methode zum Sammeln von Kontextinformationen, bei der ein UX Professional Benutzer beobachtet, die mit dem interaktiven System Aufgaben ausführen.
+Was ist ein Interview in der Nutzungskontextanalyse?;Eine Methode zur Datensammlung, bei der sorgfältig ausgewählte Personen eingehend befragt werden, um ein besseres Verständnis des Nutzungskontextes zu gewinnen.
+Was ist ein kontextuelles Interview?;Ein Interview, das an dem Ort stattfindet, an dem Benutzer normalerweise Aufgaben in Zusammenhang mit dem interaktiven System ausführen.
+Was ist der Unterschied zwischen einem Interview und einem kontextuellen Interview?;Ein kontextuelles Interview findet im natürlichen Nutzungskontext statt, ein normales Interview nicht zwingend.
+Was ist ein Interview-Leitfaden?;Eine schriftliche Liste geeigneter Fragen und Hinweise, die der Interviewer verwendet, um sicherzustellen, dass alle relevanten Themen abgedeckt werden.
+Was ist das Meister-Schüler-Modell?;Eine Interviewtechnik, bei der der Interviewer den Benutzer als Meister behandelt und selbst die Rolle des lernenden Schülers einnimmt, um Ziele und Aufgaben des Benutzers im Detail zu verstehen.
+Was ist eine offene Frage?;Eine Frage in einem Interview, die keinen Hinweis auf das erwartete Format oder den erwarteten Inhalt der Antwort gibt.
+Was ist eine geschlossene Frage?;Eine Interviewfrage, die eine Antwort aus einem vordefinierten Satz von Alternativen fordert.
+Was ist eine neutrale Frage?;Eine Frage in einem Interview, die keine impliziten Annahmen beinhaltet und die Antwort nicht in eine bestimmte Richtung lenkt.
+Was ist eine Suggestivfrage?;Eine Frage in einem Interview, die eine Präferenz für bestimmte Antwortmöglichkeiten vorgibt oder die Antwort in eine bestimmte Richtung lenkt.
+Was ist eine Fokusgruppe?;Eine moderierte Diskussion über vorgegebene Themen und Fragen zwischen Mitgliedern einer oder mehrerer Benutzergruppen.
+Wozu dient eine Fokusgruppe?;Dazu, ein tieferes Verständnis ausgewählter Themen und wichtiger Fragen des Nutzungskontexts aus verschiedenen Blickwinkeln zu gewinnen.
+Warum eignen sich Fokusgruppen nicht für Usability-Evaluierungen?;Weil es dort um Haltungen und Meinungen im Gruppenrahmen geht, während Usability-Tests das tatsächliche Benutzerverhalten beobachten.
+Was ist eine Benutzerbefragung?;Eine Methode, bei der Benutzer einen Fragebogen ausfüllen, um Daten, Fakten und Meinungen zu sammeln.
+Wofür können Benutzerbefragungen eingesetzt werden?;Zum Sammeln von Informationen über den Nutzungskontext sowie zum Messen von Zufriedenstellung oder Aspekten der User Experience.
+Was ist ein Ist-Szenario?;Eine erzählende, textuelle Beschreibung, wie ein Benutzer derzeit eine oder mehrere Aufgaben im aktuellen Nutzungskontext erledigt.
+Was ist der Hauptzweck eines Ist-Szenarios?;Die Ermittlung von Erfordernissen.
+Was ist eine Persona?;Eine Beschreibung eines konstruierten, aber realistischen Benutzers und dessen Absichten bei der Benutzung eines interaktiven Systems.
+Was ist der Zweck einer Persona?;Empathie für Benutzer zu schaffen und Benutzer für Interessenvertreter greifbar zu machen.
+Was ist ein Aufgabenmodell?;Eine Liste von Teilaufgaben für jede Aufgabe, die Benutzer erledigen müssen, um ihre Ziele zu erreichen.
+Was ist eine User Journey Map?;Eine Darstellung, die einen Überblick über Berührungspunkte bietet, an denen Benutzer mit dem interaktiven System und der bereitstellenden Organisation interagieren.
+Was sind Berührungspunkte Touchpoints?;Punkte, an denen Benutzer mit dem interaktiven System oder der Organisation interagieren.
+Was ist ein Erfordernis?;Etwas, das ein Benutzer braucht oder erwartet, damit ein Ziel im Nutzungskontext erreicht werden kann.
+Was ist eine Nutzungsanforderung?;Eine Anforderung an das interaktive System, die beschreibt, was Benutzer tun können müssen oder wie gut sie es tun können müssen, um ihre Ziele zu erreichen.
+Was ist eine quantitative Nutzungsanforderung?;Eine Nutzungsanforderung mit messbaren Kriterien, zum Beispiel Prozentwerten, Zeiten oder Erfolgsquoten.
+Was ist eine qualitative Nutzungsanforderung?;Eine Nutzungsanforderung, die nicht durch konkrete Zahlenwerte quantifiziert ist.
+Was ist ein Nutzungsszenario?;Eine Beschreibung, wie Benutzer Aufgaben mit einem zukünftigen interaktiven System ausführen werden.
+Was ist ein Storyboard?;Eine visuelle oder bildhafte Darstellung eines Nutzungsszenarios oder einer Nutzungssituation.
+Was ist Informationsarchitektur?;Die Struktur der Informationen, die Benutzern zur Verfügung stehen müssen und die Ausdrücke, die in Navigation und Inhalt verwendet werden.
+Was ist eine Navigationsstruktur?;Die Struktur, mit der Benutzer durch Inhalte und Funktionen eines interaktiven Systems geführt werden.
+Was ist ein Styleguide?;Eine Sammlung von Gestaltungsregeln und Festlegungen zur konsistenten Gestaltung einer Benutzungsschnittstelle.
+Was ist ein Wireframe?;Eine vereinfachte Darstellung einer Benutzungsschnittstelle, die Struktur und Anordnung von Inhalten und Elementen zeigt.
+Was ist ein Low-Fidelity-Prototyp?;Ein früher, einfach gehaltener Prototyp mit geringem Detailgrad, der grundlegende Struktur oder Interaktion zeigt.
+Was ist ein High-Fidelity-Prototyp?;Ein detaillierter Prototyp, der dem späteren interaktiven System in Aussehen oder Verhalten stark ähnelt.
+Was ist der Zweck der Evaluierung der Gestaltungslösung gegen Nutzungsanforderungen?;Zu überprüfen, ob die Gestaltungslösung die festgelegten Nutzungsanforderungen erfüllt.
+Was ist ein Evaluierungsbericht?;Ein Ergebnis der Evaluierung, das Erkenntnisse, Befunde oder Resultate einer Untersuchung der Gestaltungslösung dokumentiert.
+Was ist Usability-Evaluierung?;Die Untersuchung, ob und wie gut ein interaktives System oder ein Prototyp im Hinblick auf Usability bewertet werden kann.
+Was ist ein Usability-Test?;Eine Methode, bei der repräsentative Benutzer typische Aufgaben ausführen, damit Beobachter feststellen können, ob Benutzer ihre Ziele effektiv, effizient und zufriedenstellend erreichen.
+Was ist eine Usability-Inspektion?;Eine Evaluierungsmethode, bei der Experten eine Benutzungsschnittstelle ohne Beteiligung von Benutzern prüfen.
+Was ist der Zweck von Benutzerbefragungen in der Evaluierung?;Zufriedenstellung oder Aspekte der User Experience zu messen.
+Was bedeutet HCD-Reife?;Der Reifegrad einer Organisation im Hinblick darauf, wie systematisch und wirksam menschzentrierte Gestaltung in Projekten und Prozessen verankert ist.
